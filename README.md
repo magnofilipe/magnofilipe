@@ -5,7 +5,7 @@ Computer Science undergraduate, I've been interested in computers since I was a 
 ### Contact me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-240011?style=for-the-badge&logo=linkedin&logoColor=ff8200)](https://www.linkedin.com/in/filipe-magno-alves-paiva/)
 [![Gmail](https://img.shields.io/badge/Gmail-240011?style=for-the-badge&logo=gmail&logoColor=ff8200)](mailto:filipemagno.contato@gmail.com)
-[![Hackerrank](https://img.shields.io/badge/-Hackerrank-240011?style=for-the-badge&logo=HackerRank&logoColor=ff8200)](https://hackerrank.com/profile/@magnofilipe)
+[![Hackerrank](https://img.shields.io/badge/-Hackerrank-240011?style=for-the-badge&logo=HackerRank&logoColor=ff8200)](https://hackerrank.com/profile/magnofilipe)
 
 ### Some Works
 
